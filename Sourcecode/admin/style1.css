@@ -1,0 +1,43 @@
+table {
+    border: 0px solid black;
+    border-spacing: 2px;
+}
+
+th,
+td {
+    border: 0px solid black;
+}
+
+input[type=text],
+input[type=password] {
+    background-color: #EEEEEE;
+    border: none;
+    color: black;
+    width: auto;
+    padding: 8px 52px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+input[type=button],
+input[type=submit],
+input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-decoration: none;
+    margin: 6px 5px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.text-center {
+    margin-left: 560px;
+    margin-top: 14px;
+}
+
+.text-center a {
+    text-decoration: none;
+}
